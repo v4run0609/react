@@ -1,0 +1,40 @@
+.tt{
+border:solid black;
+border-radius: 20px;
+margin-top: 50px; 
+margin-bottom: 15px;
+position: fixed;
+height: 80%;
+width: 65%;
+margin-left: 15%;
+padding-left: 500px;
+background-color:rgb(223, 220, 220);
+}
+.kl{
+    margin-left: -75%;
+    margin-top: 45%;
+}
+.ll{
+    margin-top: -40%;
+}
+.ba{
+    margin-left: -220%;
+    margin-top: 150%;
+}
+.mm{
+    margin-top: -120%;
+    margin-left: 10%;
+}
+.rl{
+    margin-left: -55%;
+}
+.jj{
+    margin-top: -40%;
+    margin-left: 10%;
+    width: 30%;
+    height: 35%;
+}
+.kj{
+    margin-top: -40%;
+    margin-left: 35%;
+}

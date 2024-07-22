@@ -1,0 +1,10 @@
+
+.prem{
+    margin-left: 16%;
+    margin-top: 7%;
+}
+.ee:hover {
+    
+    transform: scale(1.05);
+    background-color: #147462; /* Change the color on hover */
+  }

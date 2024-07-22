@@ -1,0 +1,57 @@
+.cont{
+  display: flex;
+  margin: 0 auto;
+  width: 85%;
+  background-color: rgb(5, 7, 7);
+}
+.contt{
+display: flex;
+width: 85%;
+padding-top: 25px;
+
+}
+
+.lleftt{
+padding-top: 30px;
+padding-left: 45px;
+display: flex;
+float: left;
+width: 13%;
+height: 1000vh;
+background-color: rgb(4, 5, 5);
+position: fixed;
+}
+h1{
+font-family: caveman;
+}
+.hello{
+  margin-top: 10%;
+  margin-left: 7cm;
+  font-size: 50px;
+}
+.home{
+  border-color: black;
+  width: 25%;
+  height: 25%;
+}
+.info{
+    background-color:black ;
+    
+}
+.cat:hover{
+  transform: scale(1.05);
+  background-color:grey; /* Change the color on hover */
+
+}
+.cat{
+  padding: 10px;
+}
+.ryt{
+  height: 1000px;
+}
+.it{
+  height: 5%;
+  width: 5cm;
+  margin-left: 25%;
+  background-color: azure;
+}
